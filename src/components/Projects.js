@@ -19,7 +19,7 @@ export default function Projects(){
             {
                 image:projectimg3    ,
                 description:'Portfolio Webiste using HTML,Tailwind CSS and JavaScript',
-                link:''
+                link:'https://github.com/YuvanrajS/portfolio.git'
             }
         ]
     }
