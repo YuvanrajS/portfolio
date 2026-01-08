@@ -7,7 +7,7 @@ import { FaLinkedin } from "react-icons/fa6";
 
 export default function Hero(){
 const config = {
-    subtitle : 'I,m a Full-stack developer',
+    subtitle :"B.Tech Artificial Intelligence and Data Science",
     social : {
         linked : 'https://www.linkedin.com/in/yuvanraj-s-93748a227',
         github : 'https://github.com/YuvanrajS',
